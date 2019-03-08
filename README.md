@@ -7,6 +7,7 @@
 // In a nutshell, we will find a way to train a neural network (NN) algorithm to detect CMs, then in a completely seperate step, have it analyze The Lotus Sutra (LS), chapter 25. If it can speed up the efficiency of CM detection it will be improved, then run on the entire LS text. If that sees success, we will try to add the Chinese language function and repeat the process (ch. 25, then entire text). 
 
 // https://github.com/keras-team/keras/tree/master/examples - Good place to start without having to directly use TensorFlow
+//    ~/imdb_lstm.py looks promising
 
 // More detail on how to implement CM will come as the code is completed. At first it will be solely a python script run via command-line. 
 
