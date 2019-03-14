@@ -12,3 +12,6 @@
 // More detail on how to implement CM will come as the code is completed. At first it will be solely a python script run via command-line. 
 
 // Only after a prototype is viable do I (snake-arms) intend on building a GUI for manual analysis, but if someone else wants to build that it would help us test the scripts.
+
+// http://nlpprogress.com/ - which links to a paper that links to:
+//    https://github.com/ytsvetko/metaphor - Metaphor detection, well documented, plus a couple clean metaphor lists (Adj-Noun, and SVO)
